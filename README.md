@@ -1,6 +1,6 @@
 # Hi, I'm Sourav 👋
 
-Software Engineer building AI training data and coding challenges. I work at the intersection of software engineering and AI evaluation — writing coding problems, reviewing AI-generated code, and building the datasets that help LLMs get better at reasoning.
+Software Engineer building AI training data and coding challenges. I work at the intersection of software engineering and AI evaluation - writing coding problems, reviewing AI-generated code, and building the datasets that help LLMs get better at reasoning.
 
 ## What I do
 
