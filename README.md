@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Sourav 👋
 
-<!--
-**srvpal/srvpal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer building AI training data and coding challenges. I work at the intersection of software engineering and AI evaluation — writing coding problems, reviewing AI-generated code, and building the datasets that help LLMs get better at reasoning.
 
-Here are some ideas to get you started:
+## What I do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛠️ Design and review coding challenges for AI training platforms (Python, JavaScript), using Docker for containerized setups and Git for version control
+- 🧠 Evaluate LLM outputs for correctness, bias, and reasoning quality across platforms like Turing and Handshake
+- 📊 Build bilingual (Hindi/English) datasets and Chain-of-Thought math reasoning content for LLM fine-tuning
+- 🔍 Work daily in Linux/Bash environments
+
+## Tech I use
+
+`Python` `JavaScript` `Bash` `Docker` `Git` `Linux`
+
+## Currently
+
+Working on AI code evaluation and technical assessment design as a contractor with Handshake, alongside LLM evaluation work with Turing.
+
+## Let's connect
+
+📫 souravpal005@gmail.com | [LinkedIn](https://www.linkedin.com/in/sourav-pal-72085a22a)
