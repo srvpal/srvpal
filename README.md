@@ -1,4 +1,5 @@
 # Hi, I'm Sourav 👋
+AI Software Engineer | LLM Evaluation Specialist | Generative AI | Python | JavaScript
 
 Software Engineer building AI training data and coding challenges. I work at the intersection of software engineering and AI evaluation - writing coding problems, reviewing AI-generated code, and building the datasets that help LLMs get better at reasoning.
 
