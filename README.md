@@ -29,6 +29,29 @@ Software Engineer building AI training data and coding challenges. I work at the
 
 Working on AI code evaluation and technical assessment design as a contractor with Handshake, alongside LLM evaluation work with Turing.
 
+## Featured Projects
+
+- 🚀 **AI Coding Challenges** – Production-style Python & JavaScript coding challenges with automated testing
+- 🤖 **LLM Evaluation Toolkit** – Rubric-based framework for evaluating AI model responses
+- 🐍 **Python Automation** – Dataset validation and workflow automation tools
+- 🐳 **Docker Playground** – Containerized FastAPI applications and Docker examples
+- 🐧 **Linux Bash Toolkit** – Practical Bash scripts for automation and system utilities
+- ✨ **Prompt Engineering Lab** – Prompt patterns, evaluation templates, and structured prompting examples
+  
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srvpal&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srvpal&layout=compact)
+
+## Engineering Principles
+
+- Write clean, testable code
+- Prefer reproducible environments
+- Build reliable evaluation pipelines
+- Document decisions clearly
+- Keep learning through hands-on projects
+
 ## Let's connect
 
 📫 souravpal005@gmail.com | [LinkedIn](https://www.linkedin.com/in/sourav-pal-72085a22a)
