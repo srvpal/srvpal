@@ -13,6 +13,17 @@ Software Engineer building AI training data and coding challenges. I work at the
 
 `Python` `JavaScript` `Bash` `Docker` `Git` `Linux`
 
+## Areas of Interest
+
+• AI Agents
+• LLM Evaluation
+• Code Generation
+• Benchmark Creation
+• Prompt Engineering
+• Search Quality
+• NLP
+• Reinforcement Learning from Human Feedback
+
 ## Currently
 
 Working on AI code evaluation and technical assessment design as a contractor with Handshake, alongside LLM evaluation work with Turing.
