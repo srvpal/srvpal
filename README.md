@@ -22,9 +22,10 @@ I build coding and ML evaluation tasks that test model reasoning and software-en
 ## Selected Projects
 
 1. [ai-coding-challenges](https://github.com/srvpal/ai-coding-challenges) — Original Python and JavaScript coding challenges with problem specifications, reference implementations, automated tests, edge-case coverage, and GitHub Actions.
-2. [llm-evaluation](https://github.com/srvpal/llm-evaluation) — Rubric-based evaluator with weighted scoring criteria, input validation, structured JSON reports, human-readable rationales, and pytest tests.
-3. [python-automation](https://github.com/srvpal/python-automation) — CLI that validates CSV datasets for required columns, blank values, duplicate IDs, and numeric ranges, then produces JSON reports and failing exit codes when checks fail.
-4. [docker-playground](https://github.com/srvpal/docker-playground) — Containerized FastAPI health service with non-root execution, health checks, environment variables, Docker Compose, and automated API tests.
+2. [ml-benchmark-harness](https://github.com/srvpal/ml-benchmark-harness) — PyTorch benchmark with NumPy synthetic data, baseline and reference evaluation, a deterministic evaluation harness, pytest, and GitHub Actions.
+3. [llm-evaluation](https://github.com/srvpal/llm-evaluation) — Rubric-based evaluator with weighted scoring criteria, input validation, structured JSON reports, human-readable rationales, and pytest tests.
+4. [python-automation](https://github.com/srvpal/python-automation) — CLI that validates CSV datasets for required columns, blank values, duplicate IDs, and numeric ranges, then produces JSON reports and failing exit codes when checks fail.
+5. [docker-playground](https://github.com/srvpal/docker-playground) — Containerized FastAPI health service with non-root execution, health checks, environment variables, Docker Compose, and automated API tests.
 
 ## Contact
 
