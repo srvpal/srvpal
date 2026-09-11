@@ -1,57 +1,31 @@
-# Hi, I'm Sourav 👋
-AI Software Engineer | LLM Evaluation Specialist | Generative AI | Python | JavaScript
+# Hi, I'm Sourav
 
-Software Engineer building AI training data and coding challenges. I work at the intersection of software engineering and AI evaluation - writing coding problems, reviewing AI-generated code, and building the datasets that help LLMs get better at reasoning.
+ML Benchmark Engineer | AI Agent & LLM Evaluation | Python | PyTorch
 
-## What I do
+I build coding and ML evaluation tasks that test model reasoning and software-engineering ability. My work covers problem statements, reference solutions, automated tests, datasets, rubrics, and reproducible Docker environments. I also work on LLM evaluation, model-output review, and dataset quality.
 
-- 🛠️ Design and review coding challenges for AI training platforms (Python, JavaScript), using Docker for containerized setups and Git for version control
-- 🧠 Evaluate LLM outputs for correctness, bias, and reasoning quality across platforms like Turing and Handshake
-- 📊 Build bilingual (Hindi/English) datasets and Chain-of-Thought math reasoning content for LLM fine-tuning
-- 🔍 Work daily in Linux/Bash environments
+## What I work on
 
-## Tech I use
+- Design benchmark tasks with clear problem statements, reference behavior, and edge cases
+- Evaluate AI-agent and LLM outputs against explicit criteria
+- Build evaluation harnesses and automated tests
+- Validate datasets for annotation and evaluation workflows
+- Package tasks in reproducible Docker environments
 
-`Python` `JavaScript` `Bash` `Docker` `Git` `Linux`
+## Tools
 
-## Areas of Interest
+**Programming:** Python, JavaScript  
+**ML:** PyTorch, NumPy  
+**Testing and evaluation:** pytest, evaluation rubrics  
+**Engineering:** Docker, Linux, Bash, Git, GitHub Actions
 
-• AI Agents
-• LLM Evaluation
-• Code Generation
-• Benchmark Creation
-• Prompt Engineering
-• Search Quality
-• NLP
-• Reinforcement Learning from Human Feedback
+## Selected Projects
 
-## Currently
+1. [ai-coding-challenges](https://github.com/srvpal/ai-coding-challenges) — Original Python and JavaScript coding challenges with problem specifications, reference implementations, automated tests, edge-case coverage, and GitHub Actions.
+2. [llm-evaluation](https://github.com/srvpal/llm-evaluation) — Rubric-based evaluator with weighted scoring criteria, input validation, structured JSON reports, human-readable rationales, and pytest tests.
+3. [python-automation](https://github.com/srvpal/python-automation) — CLI that validates CSV datasets for required columns, blank values, duplicate IDs, and numeric ranges, then produces JSON reports and failing exit codes when checks fail.
+4. [docker-playground](https://github.com/srvpal/docker-playground) — Containerized FastAPI health service with non-root execution, health checks, environment variables, Docker Compose, and automated API tests.
 
-Working on AI code evaluation and technical assessment design as a contractor with Handshake, alongside LLM evaluation work with Turing.
+## Contact
 
-## Featured Projects
-
-- 🚀 **AI Coding Challenges** – Production-style Python & JavaScript coding challenges with automated testing
-- 🤖 **LLM Evaluation Toolkit** – Rubric-based framework for evaluating AI model responses
-- 🐍 **Python Automation** – Dataset validation and workflow automation tools
-- 🐳 **Docker Playground** – Containerized FastAPI applications and Docker examples
-- 🐧 **Linux Bash Toolkit** – Practical Bash scripts for automation and system utilities
-- ✨ **Prompt Engineering Lab** – Prompt patterns, evaluation templates, and structured prompting examples
-  
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srvpal&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srvpal&layout=compact)
-
-## Engineering Principles
-
-- Write clean, testable code
-- Prefer reproducible environments
-- Build reliable evaluation pipelines
-- Document decisions clearly
-- Keep learning through hands-on projects
-
-## Let's connect
-
-📫 souravpal005@gmail.com | [LinkedIn](https://www.linkedin.com/in/sourav-pal-72085a22a)
+[souravpal005@gmail.com](mailto:souravpal005@gmail.com) | [LinkedIn](https://linkedin.com/in/sourav-pal-72085a22a)
